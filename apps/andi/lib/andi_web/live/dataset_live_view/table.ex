@@ -1,4 +1,6 @@
 defmodule AndiWeb.DatasetLiveView.Table do
+  @moduledoc false
+
   use Phoenix.LiveComponent
 
   def render(assigns) do
